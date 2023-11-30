@@ -159,10 +159,12 @@ def onStep():
 ```
 
 ## FizzBuzz
+
 Given an integer *N*, for every integer i <= N, print the following:
-* if i is divisible by 3, print ""Fizz""
-* if i is divisible by 5, print ""Buzz""
-* if i is divisible by 15, print ""FizzBuzz""
+
+* if i is divisible by 3, print "Fizz"
+* if i is divisible by 5, print "Buzz"
+* if i is divisible by 15, print "FizzBuzz"
 * otherwise, print i
 
 
